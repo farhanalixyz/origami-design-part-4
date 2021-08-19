@@ -1,0 +1,44 @@
+.header{
+    background-color: rgb(19, 1, 97);
+}
+h1 {
+    color:darkorange
+}
+h2 {
+    color:forestgreen
+} 
+.menu {
+    border-radius: 20px solid maroon;
+    display: flex;
+    justify-content: space-between;
+    background-color: mediumseagreen;
+    padding: 15px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color:yellow
+}
+
+.grid {
+    background-color:teal;
+    border: 2px solid black;
+    border-radius:50px;
+}
+.origami{
+    border-radius: 20px;
+    background-color:thistle;
+    padding: 30px;
+    margin: 25px;
+    width:410px;
+    font-family: fantasy;
+    text-decoration: none;
+}
+.origami :hover{
+    transform: scale(1.2);
+}
+.menu{
+    margin: 80px;
+}
+.menu a{
+    margin-left: 20px;
+}
